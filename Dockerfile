@@ -1,7 +1,7 @@
 FROM ubuntu
 
 # File Author / 
-MAINTAINER kmaryna2018
+MAINTAINER kmaryna
 
 # Update the repository sources list
 RUN apt-get update
